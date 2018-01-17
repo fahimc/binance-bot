@@ -26,10 +26,11 @@ const Main = {
             		});
             });
 
-            
+           
+            		console.log(new Date(depth.E));
             
             //console.log(symbol + " market depth update");
-            console.log(depth);
+            //console.log(depth);
 
         });
 
